@@ -1,4 +1,4 @@
-name: argus-doc-reader
+name: pdf-figure-reader
 version: 2.0.0
 description: >
   静态/动态分层的路由清单。SKILL.md 据此决定每次任务加载哪些片段。

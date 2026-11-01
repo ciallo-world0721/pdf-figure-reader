@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-detect_env.py — argus-doc-reader 环境探测与路由建议
+detect_env.py — pdf-figure-reader 环境探测与路由建议
 
 输出 JSON，route 字段对应 manifest.yaml 的 env 轴取值：
   not_installed      未安装 paddle（gpu 字段会说明硬件潜力，供安装时选档位）

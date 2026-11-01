@@ -1,9 +1,9 @@
 ---
-name: argus-doc-reader
+name: pdf-figure-reader
 description: 本地部署百度 PP-StructureV3 文档解析产线（GPU 加速），把 PDF/扫描件精读为 Markdown + 逐块 JSON + 完整切割的图表图片，图题自动配对，并以切割原图交叉校验 OCR 文本。仅当用户明确要求精读文档图表时使用，例如"把 PDF 里的图都读清楚"、"图表必须看懂/不能漏"、"精读这份文献的 figure"、扫描版图表识别、图表提取。普通 PDF 阅读、摘要、翻译、问答不要使用本 skill，走默认 PDF 阅读路径（云端更快）。也适用于从零安装部署该环境的请求。
 ---
 
-# Argus Doc Reader — 图表级 PDF 精读（路由器）
+# PDF Figure Reader — 图表级 PDF 精读（路由器）
 
 本文件只做路由。不要凭记忆执行安装或解析，按下面的协议从磁盘加载对应内容。
 

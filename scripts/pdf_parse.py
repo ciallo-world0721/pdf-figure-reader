@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-pdf_parse.py — PP-StructureV3 文档解析封装（argus-doc-reader）
+pdf_parse.py — PP-StructureV3 文档解析封装（pdf-figure-reader）
 
 输入 PDF/图片，输出:
   <输出目录>/<文档名>.md          合并后的全文 Markdown（图已在正确位置引用）

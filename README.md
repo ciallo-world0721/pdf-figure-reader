@@ -1,4 +1,4 @@
-# Argus Doc Reader
+# PDF Figure Reader
 
 本地 GPU 驱动的图表级 PDF 精读 skill（Kimi Work / Kimi Code），基于百度飞桨 PP-StructureV3 文档解析产线。
 
@@ -46,4 +46,6 @@ RTX 4070 Laptop（8GB）：13 页 Analytical Chemistry 论文约 2 分钟，解�
 
 ## License
 
-Apache-2.0（遵循 PaddleOCR 上游协议）
+Apache-2.0，全文见 [LICENSE](LICENSE)。解析产线来自 PaddleOCR（百度飞桨），遵循其上游协议。
+
+Copyright (c) 2026 ciallo-world0721
